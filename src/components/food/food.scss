@@ -1,0 +1,8 @@
+.snake-food {
+    position: absolute;
+    width: 4%;
+    height: 4%;
+    z-index: 1;
+    background-color: tomato;
+    box-shadow: 0 0 20px rgba(tomato, .9);
+}
